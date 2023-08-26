@@ -7,4 +7,4 @@
 </strong></em></p>
 <br>
 <br>
-<p><strong>I subsequently undertook a project that mirrored one featured on the channel, effectively marking my maiden venture into the realm of Tailwind CSS. This project now serves as a solid foundation upon which I plan to build my proficiency in Tailwind CSS. I am excited to further expand my knowledge and ultimately create my own projects with a high level of proficiency in the future.</strong></p>
+<p><strong><em>I subsequently undertook a project that mirrored one featured on the channel, effectively marking my maiden venture into the realm of Tailwind CSS. This project now serves as a solid foundation upon which I plan to build my proficiency in Tailwind CSS. I am excited to further expand my knowledge and ultimately create my own projects with a high level of proficiency in the future.</strong></em></p>
